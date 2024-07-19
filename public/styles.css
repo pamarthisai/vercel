@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.landing-container {
+    margin-top: 50px;
+}
+
+#video-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+video {
+    width: 45%;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
